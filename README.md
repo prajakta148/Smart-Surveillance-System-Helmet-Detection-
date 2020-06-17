@@ -5,6 +5,7 @@ This project is based on Image Processing and Machine Learning techniques. The p
 
 1. ImageAI Library-
         ImageAI is a python library built to empower developers, reseachers and students to build applications and systems with         self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code.
+        
         The Official GitHub Repository of ImageAI is https://github.com/OlafenwaMoses/ImageAI
         
 2. YOLO algorithm-
